@@ -16874,7 +16874,7 @@ label.checkbox { padding-left: 20px; }
 
 	.menu-container > .menu-item:hover > .menu-link,
 	.menu-container > .menu-item.current > .menu-link {
-		background-color: #7B6ED6;
+		background-color: #1ABC9C;
 		color: #FFF !important;
 	}
 
